@@ -1,0 +1,34 @@
+{
+  "APPLICATIONS": [
+    "vscode",
+    "chrome",
+    "firefox",
+    "spotify",
+    "discord",
+    "ola",
+    "vs",
+    "code"
+  ],
+  "WEBSITES": [
+    "youtube",
+    "google",
+    "github",
+    "chatgpt",
+    "gmail",
+    "claude",
+    "elevenlabs"
+  ],
+  "FILES": [
+    "arquivo",
+    "pasta",
+    "documento",
+    "imagem",
+    "video"
+  ],
+  "SYSTEM": [
+    "configurações",
+    "painel",
+    "controle",
+    "terminal"
+  ]
+}

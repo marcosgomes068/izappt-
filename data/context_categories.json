@@ -1,0 +1,5 @@
+{
+  "BROWSER": ["navegador", "browser", "web", "chrome", "firefox"],
+  "DESKTOP": ["area de trabalho", "desktop"],
+  "FOLDER":  ["pasta", "diretorio", "local"]
+}

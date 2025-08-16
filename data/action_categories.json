@@ -1,0 +1,8 @@
+{
+  "OPEN":    ["abrir", "executar", "iniciar", "rodar", "lançar"],
+  "CLOSE":   ["fechar", "sair", "terminar", "parar"],
+  "SEARCH":  ["pesquisar", "buscar", "procurar", "encontrar"],
+  "NAVIGATE": ["ir", "navegar", "acessar", "visitar"],
+  "CREATE":  ["criar", "novo", "gerar", "fazer"],
+  "DELETE":  ["deletar", "remover", "apagar", "excluir"]
+}
